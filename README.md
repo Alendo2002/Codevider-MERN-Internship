@@ -1,4 +1,4 @@
-## aplikacioni MERN
+## Aplikacioni MERN
 * Si te bejme run programit
 
 1. cd backend - npm install 
